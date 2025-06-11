@@ -28,6 +28,6 @@ If the device doesn't appear on the apple home app, and see the following output
 ```
 You need to type uppercase 'W' and hit enter. Set the SSID and WIFI password afterwards and reset the ESP32.
 
-### I deleted the device on the home app, but it doesn't appear anymore
+### I DELETED THE DEVICE ON THE HOME APP, BUT IT DOESN'T APPEAR ANYMORE
 That's because the ESP32 has stored the pairing device (your phone in this case).
 To unpair it, just write uppercase 'H' on the serial and hit entre.
