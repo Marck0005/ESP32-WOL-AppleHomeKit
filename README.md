@@ -1,9 +1,10 @@
-# WARNING
+# ESP32-WOL-AppleHomekit
 
-Este proyecto requiere un archivo de credenciales para conectarse a una red WiFi y utilizar una dirección MAC específica.
-This project requires a credential file with the WiFi network SSID and the MAC Addres of the target PC
+Integration of ESP32 with apple homekit
 
-## It should look like this:
+> [!WARNING]  
+> This project requires a credential file with the WiFi network SSID and the MAC Addres of the target PC.
+> The below example shows an example of this file.
 
 ```cpp
 #pragma once
